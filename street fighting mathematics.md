@@ -1,5 +1,5 @@
 # Description
-這份文件是節錄edx的一門課程Street Fighting Math(SFM)上的精華內容，供沒修過這堂課的朋友一睹其樂趣。英文文字的部份是直接由課程內容剪下貼上。數學的部份會寫得非常隨意，重意不重形。
+這份文件是節錄edx的一門課程Street Fighting Math(SFM)上的精華內容，供沒修過這堂課的朋友一睹其樂趣。英文文字的部份是直接由課程內容剪下貼上。數學的部份會寫得非常隨意，敬請見諒。
 
 課程網址 https://www.edx.org/course/mitx/mitx-6-sfmx-street-fighting-math-1501#.U4bhk1T_QjA 
 
