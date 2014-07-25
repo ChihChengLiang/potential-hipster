@@ -139,9 +139,9 @@ $$e^{-7}\approx 0.0009$$
 $$n\ln (1+z)\approx n\left(z - {z^2\over 2}\right)$$
 所以
 $$(1+z)^ n \approx e^{nz} \times e^{-nz^2/2}.$$
-$$e^{-nz^2/2}=e^{-7\times0.05/2}=e^{-7/40}\approx1-{7\over 40}=-1.75\%$$
+$$e^{-nz^2/2}=e^{-7\times0.05/2}=e^{-7/40}\approx1-{7\over 40}=0.825$$
 結合前面的結果
-$$0.0009-1.75\% =0.0007425$$
+$$0.0009*0.825 =0.0007425$$
 電腦計算的答案是0.00076086
 
 ## Successive approximation
